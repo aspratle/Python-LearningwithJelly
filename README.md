@@ -7,3 +7,4 @@ Objective:  To learn data science/ data analytics principles using Python.
 
 - For video tutorials go here: [Jelly's Youtube](https://www.youtube.com/channel/UCvV-N7kwEsDY4d-mgYeSWOA)
 - To download Jupyter Notebook go here: [Anaconda](https://www.anaconda.com/)
+- If anaconda is not right for you (or causing trouble), you can follow along using [Google Collab](https://colab.research.google.com/)
